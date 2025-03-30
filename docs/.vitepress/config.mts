@@ -11,8 +11,6 @@ export default defineConfig({
       provider: 'local'
     },
 
-    logo: { src: 'assets/aconite-logo.png', width: 24, height: 24 },
-
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Wikis', link: '/wikis' }
