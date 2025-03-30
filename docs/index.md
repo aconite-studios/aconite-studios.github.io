@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Aconite Studios"
   text: "Tempory Site Desc"
-  tagline: My great project tagline
+  tagline: My test project tagline
   actions:
     - theme: brand
       text: Overview
@@ -13,15 +13,22 @@ hero:
     - theme: alt
       text: Who are we?
       link: /members
+image:
+    src: assets/big-aconite-logo.png
+    alt: Aconite
 
 features:
-  - title: Carved
-    details: Decor Mod based around new Trees
-  - title: Typlosid
-    details: Look within...
-  - title: Astray Archipelago
+  - title: Astray Archipelago 
+    icon: 🏝️
     details: They're watching.
+  - title: Carved 
+    icon: 🌳
+    details: Decor Mod based around new Trees!
   - title: Discharged
+    icon: 🍄‍🟫
     details: Natural Neutralisers
+  - title: Typlosid
+    icon: 👁️
+    details: Look within...
 ---
 
