@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Aconite Studios"
-  text: "big description - remember to write this nope"
+  text: "big description, remember to write this nope"
   tagline: Small modding Fabric / Quilt modding studio focused on quality over quantity
   actions:
     - theme: brand
