@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Aconite Studios"
-  text: "Tempory Site Desc"
-  tagline: My test project tagline
+  text: "I'm still not being given these FUCKING descriptions"
+  tagline: Small modding fabric / quilt modding studio focused on quality over quantity
   actions:
     - theme: brand
       text: Overview
