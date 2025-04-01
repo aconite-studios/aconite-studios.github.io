@@ -5,7 +5,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
 
   title: "Aconite Studios",
-  description: "bitches didnt give me a descripion so i am not coming up with one <3",
+  description: "Small modding Fabric / Quilt modding studio focused on quality over quantity",
   themeConfig: {
     search: {
       provider: 'local'
